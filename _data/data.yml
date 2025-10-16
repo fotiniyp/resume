@@ -29,7 +29,7 @@ sidebar:
     - idiom: Greek
       level: Native
 
-  #interests:
+  interests:
     title: Interests
     info:
     - item: Climbing
@@ -41,7 +41,7 @@ sidebar:
 
 
     - item: Cooking
-      link: # 
+      link: 
 
 
 career-profile:
